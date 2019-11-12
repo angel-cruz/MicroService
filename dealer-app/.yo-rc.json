@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.dealer.app"
+    },
+    "jhipsterVersion": "6.4.1",
+    "applicationType": "microservice",
+    "baseName": "dealerapp",
+    "packageName": "com.dealer.app",
+    "packageFolder": "com/dealer/app",
+    "serverPort": "8083",
+    "authenticationType": "jwt",
+    "cacheProvider": "hazelcast",
+    "enableHibernateCache": true,
+    "websocket": false,
+    "databaseType": "sql",
+    "devDatabaseType": "h2Disk",
+    "prodDatabaseType": "mysql",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "eureka",
+    "buildTool": "maven",
+    "enableSwaggerCodegen": false,
+    "jwtSecretKey": "YjllOTEwOWIwNGZjZGZmM2ZjNDMwMWQxYTVhZjE4ZjYyYTA5Nzg5ZjJlMzkyMmUwYzhmMTEzNTM0NTY3ZjNkNGFkOGI4ZWRjOGI0OGUyMGI5MDBlYzYwNzIzMjZmNWQyM2IzNzljM2VlNTI0MDA5OWI3ODEzNDcwMGEyYjYxMWQ=",
+    "embeddableLaunchScript": false,
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "entitySuffix": "",
+    "dtoSuffix": "DTO",
+    "otherModules": [],
+    "enableTranslation": false,
+    "clientPackageManager": "npm",
+    "blueprints": [],
+    "skipClient": true,
+    "skipUserManagement": true
+  }
+}
